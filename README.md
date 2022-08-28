@@ -33,7 +33,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/uzairriaz">
+<a href="https://github.com/KanwarAdnan">
   <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KanwarAdnan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <br>
   <img height="180em" width="360em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KanwarAdnan&layout=compact&theme=algolia"/> 
