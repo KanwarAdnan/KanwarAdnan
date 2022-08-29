@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanwaradnan&label=Profile%20views&color=0e75b6&style=flat" alt="kanwaradnan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kanwar_adnan" target="blank"><img src="https://img.shields.io/twitter/follow/kanwar_adnan?logo=twitter&style=for-the-badge" alt="kanwar_adnan" /></a> </p>
-
 - 🔭 I’m currently working as **Python developer**
 
 - 🌱 I’m currently learning **Competitive Programming , ML , DL and AI**
@@ -43,3 +41,5 @@
 </p>
 
 <br>
+## ⚙️ &nbsp;Contributions Graph
+[![Kanwar Adnan's github activity graph](https://activity-graph.herokuapp.com/graph?username=KanwarAdnan&theme=react-dark)](https://github.com/KanwarAdnan/github-readme-activity-graph)
